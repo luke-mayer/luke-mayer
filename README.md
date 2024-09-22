@@ -12,9 +12,9 @@ I'm passionate about problem-solving and back-end development, thriving on tackl
 
 # Projects
 
-- [Abe - The 20 Questions Bot](https://github.com/luke-mayer/20-Questions-Site): A web application that allows users to play 20 Questions against an AI opponent.
-- [OpenMamaaFAANG Inc.](https://github.com/luke-mayer/open-mamaa-faang-inc): A satirical, text-based Java game that enables users to experience the early days as a junior developer at an AI-powered tech company where things take a turn for the peculiar.
-- [Michael Scott](https://github.com/luke-mayer/michael-scott): A reinforcement learning model that utilizes a double deep Q-learning neural network to learn to play Geometry Dash.
+- [Abe - The 20 Questions Bot](https://github.com/luke-mayer/20-Questions-Site): Deployed a serverless web application that enables users to play 20 Questions against an AI opponent.
+- [OpenMamaaFAANG Inc.](https://github.com/luke-mayer/open-mamaa-faang-inc): Developed a satirical, text-based Java game that enables users to experience the early days as a junior developer at an AI-powered tech company where things take a turn for the peculiar.
+- [Michael Scott](https://github.com/luke-mayer/michael-scott): Collaborated with 4 other students to build a reinforcement learning model to play Geometry Dash.
 
 # Contact
 
