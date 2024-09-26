@@ -1,13 +1,13 @@
-👋 Hi, I'm Luke Mayer! I'm a senior computer science major at the University of Maryland, specializing in machine learning and graduating in December, 2024.
+👋 Hi, I'm Luke Mayer! I'm a senior Computer Science major at the University of Maryland, specializing in Machine Learning and graduating in December, 2024.
 
 # About Me
 
-I'm passionate about problem-solving and back-end development, thriving on tackling complex challenges and finding innovative solutions, whether individually or as part of a team. I'm always seeking opportunities to deepen my software engineering expertise and refine my technical and problem-solving skills. As a highly motivated self-learner, I'm eager to master new technologies and continuously improve my craft.
+I'm passionate about problem-solving and back-end development and I thrive on tackling complex challenges and finding innovative solutions, whether individually or as part of a team. I'm always seeking opportunities to deepen my software engineering expertise and refine my technical and problem-solving skills. As a highly motivated self-learner, I'm eager to master new technologies and continuously improve my craft.
 
 # Technical Skills
 
 **Proficient:** Python, Java  
-**Familiar:** JavaScript, HTML/CSS, Dart  
+**Familiar:** JavaScript, C, HTML/CSS, Dart  
 **Experience with Technologies/Frameworks:** AWS, ReactJS, Keras/PyTorch
 
 # Projects
