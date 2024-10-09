@@ -7,14 +7,14 @@ I'm passionate about problem-solving and back-end development and I thrive on ta
 # Technical Skills
 
 **Proficient:** Python, Java  
-**Familiar:** JavaScript, C, HTML/CSS, Dart  
-**Experience with Technologies/Frameworks:** AWS, ReactJS, Keras/PyTorch
+**Familiar:** SQL, C, Golang, JavaScript, HTML/CSS 
+**Experience with Technologies/Frameworks:** AWS, Git, ReactJS, Keras/PyTorch
 
 # Projects
 
 - [Abe - The 20 Questions Bot](https://github.com/luke-mayer/20-Questions-Site): Deployed a serverless web application that enables users to play 20 Questions against an AI opponent.
-- [OpenMamaaFAANG Inc.](https://github.com/luke-mayer/open-mamaa-faang-inc): Developed a satirical, text-based Java game that enables users to experience the early days as a junior developer at an AI-powered tech company where things take a turn for the peculiar.
 - [Michael Scott](https://github.com/luke-mayer/michael-scott): Collaborated with 4 other students to build a reinforcement learning model to play Geometry Dash.
+- [OpenMamaaFAANG Inc.](https://github.com/luke-mayer/open-mamaa-faang-inc): Developed a satirical, text-based Java game that enables users to experience the early days as a junior developer at an AI-powered tech company where things take a turn for the peculiar.
 
 # Contact
 
