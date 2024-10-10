@@ -7,7 +7,7 @@ I'm passionate about problem-solving and back-end development and I thrive on ta
 # Technical Skills
 
 **Proficient:** Python, Java  
-**Familiar:** SQL, C, Golang, JavaScript, HTML/CSS 
+**Familiar:** SQL, C, Golang, JavaScript, HTML/CSS  
 **Experience with Technologies/Frameworks:** AWS, Git, ReactJS, Keras/PyTorch
 
 # Projects
