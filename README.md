@@ -1,4 +1,4 @@
-👋 Hi, I'm Luke Mayer! I'm a senior Computer Science major at the University of Maryland, specializing in Machine Learning and graduating in December, 2024.
+👋 Hi, I'm Luke Mayer! I'm a Computer Science graduate from the University of Maryland (December 2024) and I am currently seeking a full-time software engineer/developer position.
 
 # About Me
 
@@ -8,7 +8,7 @@ I'm passionate about problem-solving and back-end development and I thrive on ta
 
 **Proficient:** Python, Golang  
 **Familiar:** SQL, Java, C, JavaScript, HTML/CSS  
-**Experience with Technologies/Frameworks:** AWS, Google Cloud Platform, Git, ReactJS, PyTorch
+**Experience with Technologies/Frameworks:** AWS, Google Cloud Platform, Git, ReactJS, PostgreSQL
 
 # Projects
 
