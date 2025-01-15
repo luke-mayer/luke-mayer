@@ -8,7 +8,7 @@ I'm passionate about problem-solving and back-end development and I thrive on ta
 
 **Proficient:** Python, Golang  
 **Familiar:** SQL, Java, C, JavaScript, HTML/CSS  
-**Experience with Technologies/Frameworks:** AWS, Google Cloud Platform, Git, ReactJS, PostgreSQL
+**Experience with Technologies/Frameworks:** AWS, Google Cloud Platform, Git, ReactJS, PostgreSQL, Linux
 
 # Projects
 
