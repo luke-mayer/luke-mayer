@@ -1,4 +1,4 @@
-👋 Hi, I'm Luke Mayer! I'm a Computer Science graduate from the University of Maryland (December 2024) and I am currently seeking a full-time software engineer/developer position.
+👋 Hi, I'm Luke Mayer! I'm a Full-Stack Engineer and a Computer Science graduate from the University of Maryland (December 2024).
 
 # About Me
 
